@@ -1,44 +1,16 @@
-## Swift 30 Projects
+PhotoScroll
+==========
 
-![Cover](./Cover.jpg)
+Simple app to demo UIScrollView usages, they are:
 
-## Contents
-This repo is updated with Swift 4.0 and compatible with iPhone X:
+- How to use a UIScrollView to zoom and view a very large image.
+- How to keep the UIScrollView‘s content centered while zooming.
+- How to use UIScrollView for vertical scrolling with Auto Layout.
+- How to keep text input components visible when the keyboard is displayed.
+- How to use UIPageViewController, in conjunction with UIPageControl, to allow scrolling through multiple pages of content.
 
-* Simple UIKit components
-* UIScrollView, UITableView, UICollectionView
-* CAAnimations and UIView Animations
-* Local Notification in iOS 11
-* MapKit, Contact, and Core ML frameworks
-* Core Data, Today Extension, and 3D touch
-* Popular Open Source Frameworks
-* Design Patterns
+For details, please reference [UIScrollView Tutorial: Getting Started](https://www.raywenderlich.com/122139/uiscrollview-tutorial)
 
-![Swift30Projects](./Swift30Projects.png)
-
-## By developers and for developers
-
-I am an iOS developer and currently learning Swift.
-
-This project is inspired by [Sam Lu](https://twitter.com/samvlu)'s [100 Days of Swift](http://samvlu.com/index.html) and [Allen朝辉](https://twitter.com/creativewang)'s [30DaysSwift](https://github.com/allenwong/30DaysofSwift).
-
-**This repo does not merely follow tutorials, I re-build them with better code style and architecture design.**
-
-For code style, I strictly follow [raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide);
-
-For developers, I have a README file and screenshots for every single project, you can start coding from there.
-
-## What's next?
-
-I will maintain the project with latest syntax and most advanced code style. More code comments are going to be covered as well.
-
-Also, **unit tests** will be added to ensure the quality of the codebase.
-
-## Contributors
-[chenluffy](https://github.com/ChengLuffy), [LargeShrimp](https://github.com/LargeShrimp) and [azureland](https://github.com/azureland), thank you for your assistance in optimizing the repo.
-
-## Reach me ##
-
-Twitter: [@guyindaozhang](https://twitter.com/guyindaozhang)<br />
-Weibo: [@故胤道长](http://weibo.com/soapyigu)
+## Screenshots
+![PhotoScroll](./PhotoScroll.gif)
 
